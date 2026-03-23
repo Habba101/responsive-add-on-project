@@ -70,7 +70,7 @@ body {
     aspect-ratio: 1/1;
 }
 
-.instagram-embeds {
+.pinterest-embeds {
     margin: 30px 0;
 }
 
@@ -246,5 +246,12 @@ footer a {
 .embed {
     aspect-ratio: 16/9;
 }
+
+section .videos {
+    display: none;
+}
  
+.pinterest-embeds{
+    display: none;
+}
 }
